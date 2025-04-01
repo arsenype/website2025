@@ -1,3 +1,3 @@
- #rectangle1 {
+ #background {
 
 }
