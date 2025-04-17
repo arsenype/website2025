@@ -6,7 +6,24 @@
     margin: 0;
     font-family: Arial;
     font-size: 17px;
-    background-image: src("/images/background.png");
+    background-image: src("images/background.png");
     Background-repeat : no-repeat;
+  }
+  #menu{
+    
+    margin: auto;
+  width: 34%;
+  border: 3px solid invisible;
+  padding: 10px;
+  }
+  #btn01{
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+  }
+  #btn02{
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
   }
 
