@@ -11,3 +11,10 @@
     background-attachment: fixed;
     background-size: 100% 100%;
   }
+ #banner{
+  height: 560px;
+  position: relative;
+  overflow: visible;
+  object-fit: cover;
+   
+ }
