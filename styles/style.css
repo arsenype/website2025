@@ -11,8 +11,9 @@
     background-attachment: fixed;
     background-size: 100% 100%;
   }
- .banner{
-  height: 560px;
+ #banner{
+  height: 50%;
+  width: 100%;
   position: relative;
   overflow: visible;
   object-fit: cover;
