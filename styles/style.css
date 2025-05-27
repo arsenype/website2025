@@ -2,7 +2,9 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "Cherry Bomb One", system-ui;
+  font-weight: 400;
+  font-style: normal;
   background: url('https://i.ibb.co/1JRVLCJ5/background.png') center/cover no-repeat;
   height: 100vh;
   display: flex;
@@ -28,6 +30,7 @@ body {
   color: rgba(255, 255, 255, 0.9);
   text-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
   margin-bottom: 60px;
+ 
 
   
 }
@@ -55,7 +58,7 @@ body {
   align-items: center;
   justify-content: center;
   transition: 0.3s ease;
-  
+
   
   
 }

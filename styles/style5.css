@@ -1,7 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Georgia', serif;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   background-color: #fffaf5;
   color: #000;
 }
@@ -23,12 +25,18 @@ body {
   text-align: center;
   margin-bottom: 25px;
   text-transform: uppercase;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .text-block {
   font-size: 1.1em;
   line-height: 1.6;
   color: #333;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 
